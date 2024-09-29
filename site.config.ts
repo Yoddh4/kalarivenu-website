@@ -24,9 +24,9 @@ export default siteConfig({
   // newsletter: '#', // optional newsletter URL
   youtube: 'KalariVenu', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
-  default notion icon and cover images for site-wide consistency (optional)
-  page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  // default notion icon and cover images for site-wide consistency (optional)
+  // page-specific values will override these site-wide defaults
+  defaultPageIcon: 'default',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
