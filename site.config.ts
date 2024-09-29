@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Venugopalan A K',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Personal Website of DR Venugopalan A K',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
